@@ -15,6 +15,7 @@ A basic wether app that uses a city name to forecast the current and upcoming we
 
 ## Installation
 Go to the repo and clone.
+Deployed Site: https://russob22.github.io/WeatheredNotWeathering/
 
 ## Usage
 Open index.html into your browser and enter a city name.
